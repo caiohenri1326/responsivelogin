@@ -1,0 +1,71 @@
+@media screen and (max-width: 720px){
+    .box-principal{
+        height: 500px;
+        margin-top: 100px;
+        width: 450px;
+    }
+    input{
+        height: 35;
+        width: 350px;
+    }
+    button{
+        width: 350px;
+        height: 40px;
+    }
+    a{
+        margin: 350px 0px 0px -225px;
+    }
+    .black-white{
+        margin: -70px 0px 0px 400px;
+    }
+}
+@media screen and (max-width: 568px) {
+    .box-principal{
+        height: 470px;
+        margin-top: 70px;
+        width: 350px;
+    }
+    .email{
+        margin: 150px 0px 0px 50px;
+    }
+    .entrar{
+        width: 257px;
+        margin: 300px 0px 0px 50px;
+    }
+    input{
+        height: 35;
+        width: 257px;
+    }
+    p{
+        margin: 30px 0px 0px 130px;
+    }
+    .registrar{
+        margin: 355px 0px 0px -185px;
+    } 
+    .black-white{
+        margin: -50px 0px 0px 400px;
+    }
+    .container{
+        margin: 400px 0px 0px 60px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .box-principal{
+        height: 500px;
+        margin-top: 100px;
+        width: 320px;
+    }
+    input{
+        height: 35;
+        width: 250px;
+        margin: 50px 0px 0px 30px;
+}
+    button{
+        width: 250px;
+        height: 40px;
+        margin: 250px 0px 0px 30px;
+    }
+    a{
+        margin: 350px 0px 0px -180px;
+    }
+}
